@@ -17,4 +17,5 @@
 	/* @import 'common/uni.css'; 
 	need to import this when you include common folder
 	*/
+   /* @import "static/fonts/uniicons.css" */
 </style>
